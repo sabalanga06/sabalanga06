@@ -37,4 +37,8 @@
  <a href="https://www.w3schools.com/js/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title = "JavaScript" width = "45px" height = "45px" /></a>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabalanga06&show_icons=true&locale=en&layout=compact" alt="sabalanga" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabalanga06&show_icons=true&locale=en" alt="sabalanga" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabalanga06&" alt="sabalanga" /></p>
