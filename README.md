@@ -6,6 +6,10 @@
 - 📫 How to reach me: https://www.linkedin.com/in/saba-langa-8690b823a/  or sabalanga062@gmail.com 
 - :woman_technologist: Self taught developer and self-motivational 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabalanga06&label=Profile%20views&color=0e75b6&style=flat" alt="sabalanga" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabalanga06" alt="sabalanga" /></a> </p>
+
 <!-- connect with me -->
 <h2> 🔗&nbsp; Connect with me </h2>
 <p align="left">
