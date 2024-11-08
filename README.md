@@ -1,6 +1,7 @@
 # Hello there 👋 I am Saba Langa!
 ### :raising_hand: About Me
 
+- 💼 SDE at [TSS](https://www.trackwizz.com/)
 - 🎓 I'm a 2024 undergraduate in CS from Government Engineering College Rajkot.
 - 🌱 I am comfortable with .NET, Devops, C#, MS SQL , Angular TS | JS. Actively learning more nd more.
 - 📫 How to reach me: https://www.linkedin.com/in/saba-langa-8690b823a/  or sabalanga062@gmail.com 
